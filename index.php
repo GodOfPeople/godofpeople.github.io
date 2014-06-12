@@ -1,4 +1,5 @@
 <?php
+ob_start();
 include_once("inc/functions-template.php");
 get-head("index" "GodOfPeople - God Changed Word of Developer");
 ?>
